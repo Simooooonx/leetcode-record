@@ -83,7 +83,9 @@ public class Main {
 
 
 
+## [194] [Transpose File](https://leetcode.com/problems/transpose-file/description/)
 
+偶然看到，结合输入输出复习
 
 ## 字符串总结
 
